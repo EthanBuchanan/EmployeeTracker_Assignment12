@@ -1,0 +1,24 @@
+{
+  "name": "employeetracker_assignment12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanBuchanan/EmployeeTracker_Assignment12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanBuchanan/EmployeeTracker_Assignment12/issues"
+  },
+  "homepage": "https://github.com/EthanBuchanan/EmployeeTracker_Assignment12#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
